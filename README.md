@@ -13,3 +13,6 @@ To get started, open the index.html file to find instructions and examples. You'
 * Item
 
 ![](http://upload.wikimedia.org/wikipedia/commons/9/90/Kalbarri_NP_Coastal.jpg)
+
+
+[Visit GitHub!](www.github.com)
